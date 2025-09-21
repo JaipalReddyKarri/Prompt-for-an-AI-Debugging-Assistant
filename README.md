@@ -41,7 +41,7 @@ The goal is for the student to find and correct their own errors instead of rece
 
 ---
 
-#Screenshots of Python code and AI-Debugging
+## AI Debugging Response
 
 <img width="791" height="796" alt="image" src="https://github.com/user-attachments/assets/4d2dc29d-6958-4684-b9f9-944d73e8c91b" />
 
